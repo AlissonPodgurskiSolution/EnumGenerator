@@ -1,0 +1,12 @@
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\bin\Debug\net8.0\EnumGenerator.deps.json
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\bin\Debug\net8.0\EnumGenerator.dll
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\bin\Debug\net8.0\EnumGenerator.pdb
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\obj\Debug\net8.0\EnumGenerator.csproj.AssemblyReference.cache
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\obj\Debug\net8.0\EnumGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\obj\Debug\net8.0\EnumGenerator.AssemblyInfoInputs.cache
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\obj\Debug\net8.0\EnumGenerator.AssemblyInfo.cs
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\obj\Debug\net8.0\EnumGenerator.csproj.CoreCompileInputs.cache
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\obj\Debug\net8.0\EnumGenerator.dll
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\obj\Debug\net8.0\refint\EnumGenerator.dll
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\obj\Debug\net8.0\EnumGenerator.pdb
+C:\CodeArticles\EnumGeneratorDemo\EnumGenerator\obj\Debug\net8.0\ref\EnumGenerator.dll

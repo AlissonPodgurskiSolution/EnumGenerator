@@ -1,0 +1,9 @@
+C:\CodeArticles\EnumGeneratorDemoApp\EnumGeneratorDemoApp\obj\Release\net8.0\EnumGeneratorDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeArticles\EnumGeneratorDemoApp\EnumGeneratorDemoApp\obj\Release\net8.0\EnumGeneratorDemoApp.AssemblyInfoInputs.cache
+C:\CodeArticles\EnumGeneratorDemoApp\EnumGeneratorDemoApp\obj\Release\net8.0\EnumGeneratorDemoApp.AssemblyInfo.cs
+C:\CodeArticles\EnumGeneratorDemoApp\EnumGeneratorDemoApp\obj\Release\net8.0\EnumGeneratorDemoApp.csproj.CoreCompileInputs.cache
+C:\CodeArticles\EnumGeneratorDemo\EnumGeneratorDemoApp\obj\Release\net8.0\EnumGeneratorDemoApp.csproj.AssemblyReference.cache
+C:\CodeArticles\EnumGeneratorDemo\EnumGeneratorDemoApp\obj\Release\net8.0\EnumGeneratorDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeArticles\EnumGeneratorDemo\EnumGeneratorDemoApp\obj\Release\net8.0\EnumGeneratorDemoApp.AssemblyInfoInputs.cache
+C:\CodeArticles\EnumGeneratorDemo\EnumGeneratorDemoApp\obj\Release\net8.0\EnumGeneratorDemoApp.AssemblyInfo.cs
+C:\CodeArticles\EnumGeneratorDemo\EnumGeneratorDemoApp\obj\Release\net8.0\EnumGeneratorDemoApp.csproj.CoreCompileInputs.cache
